@@ -6,6 +6,8 @@
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-
+	<main>
+		<h1>okay</h1>
+	</main>
 </body>
 </html>
